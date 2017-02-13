@@ -1,1 +1,1 @@
-XQ的主页
+https://kuaidinan.github.io/index/
