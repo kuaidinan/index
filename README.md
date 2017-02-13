@@ -1,1 +1,1 @@
-https://kuaidinan.github.io/index/
+https://kuaidinan.github.io/index/www/
