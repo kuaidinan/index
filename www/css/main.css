@@ -1,0 +1,6 @@
+*{margin:0;padding:0;list-style-type:none;}
+a,img{border:0;}
+html{
+    overflow-x: hidden; overflow-y: hidden;
+}
+body{font:12px/180% Arial, Helvetica, sans-serif, "新宋体";}
